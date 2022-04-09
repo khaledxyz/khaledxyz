@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Khaled <img style="width: 1em;" src="/assets/wave.gif"</img> </h1>
+<h1 align="center">Hey there <img style="width: 1em;" src="/assets/wave.gif"</img> </h1>
 
 <p align="center">
 <a href="https://discord.com/users/373146874523287552" alt="Discord"><img src="assets/discord.svg" width="20px"></img></a>
