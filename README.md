@@ -25,7 +25,7 @@
 
 #
 
-<p align="center">
+<p align="left">
 <a href="http://www.github.com/khaledxyz"><img src="https://github-readme-stats.vercel.app/api?username=khaledxyz&show_icons=true&hide=&count_private=true&show_icons=true&theme=tokyonight" alt="khaledxyz's GitHub stats" /></a>
 <a href="http://www.github.com/khaledxyz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledxyz&theme=tokyonight" /></a>
 </p>
