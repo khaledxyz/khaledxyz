@@ -14,6 +14,3 @@ Full-Stack dev, I like docker and tailwind
 #### Other
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,redis,sequelize,nuxtjs,redux,sass,styledcomponents,astro,bash)](https://khaledxyz.com)
-
-### yes
-![meme](https://pbs.twimg.com/media/FxPlyPUWcAA3SzU?format=jpg&name=large)
