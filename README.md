@@ -13,6 +13,7 @@ Hello, I'm a developer who enjoys building simple, useful things. I care about c
 ![Express](https://img.shields.io/badge/express-000000)
 ![NestJS](https://img.shields.io/badge/nest-E0234E)
 ![Socket.IO](https://img.shields.io/badge/socket.io-010101)
+![Drizzle ORM](https://img.shields.io/badge/drizzle-89D4CF)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748)
 ![TypeORM](https://img.shields.io/badge/typeorm-BF360C)
 ![Sequelize](https://img.shields.io/badge/sequelize-399AF3)
