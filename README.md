@@ -5,7 +5,7 @@
 [`🟦 LinkedIn`](https://linkedin.com/in/khaledxyz/)
 
 ---
-### Khaled Halloua
+### 𝛫ℎ𝑎𝑙𝑒𝑑 𝛨𝑎𝑙𝑙𝘰𝑢𝑎
 Hello, I'm a developer who enjoys building simple, useful things. I care about clarity, function, and doing good work. Always learning, always refining.
 <kbd>
   ![TypeScript](https://img.shields.io/badge/typescript-8A2BE2)
