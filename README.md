@@ -32,6 +32,3 @@ Hello, I'm a developer who enjoys building simple, useful things. I care about c
 ![Traefik](https://img.shields.io/badge/traefik-24A1C1)
 ![Nginx](https://img.shields.io/badge/nginx-009639)
 ![Linux](https://img.shields.io/badge/linux-FCC624)
-
-#### Contact
-If you have any questions or would like to collaborate, feel free to reach out via email.
